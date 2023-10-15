@@ -9,9 +9,9 @@ Y actualmente estoy aprendiendo Spring Boot y proximamente me gustaria aprender 
 para asi aumentar mis conocimientos en el area de la programacion.
 
 ### Estudios
-- Actuamentes soy TSU en informatica
-- Y estoy estudando para el obtener el titulo de Ing en informatica
-- He hecho varios cursos de programacion en Java, Mysql, SqlLite y Git
-- Tengo experiencia en el matenimiento de Ordenadores
-- Se utilizar lo basico en Photoshop
-- Experiencia media en programos de ofimatica 
+- Actuamentes soy TSU en informatica.
+- Y estoy estudiando para el obtener el titulo de Ing en informatica.
+- He hecho varios cursos como: Matenimiento a equipos informaticos, programacion en Java, Mysql, SqlLite y Git.
+- Experiencia en el matenimiento de Ordenadores e instalacion de Software.
+- Experiencia basica en Photoshop.
+- Experiencia media en programos de ofimatica. 
