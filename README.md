@@ -8,6 +8,10 @@ Y proporcionar un buen control de versiones por medio de Github para asi tener e
 Y actualmente estoy aprendiendo Spring Boot y proximamente me gustaria aprender otro leguaje como Phyton o C++.
 para asi aumentar mis conocimientos en el area de la programacion.
 
+
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
 ### Estudios
 - Actuamentes soy TSU en informatica.
 - Y estoy estudiando para el obtener el titulo de Ing en informatica.
