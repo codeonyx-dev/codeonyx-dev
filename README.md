@@ -9,7 +9,7 @@ Y actualmente estoy aprendiendo Spring Boot y proximamente me gustaria aprender 
 para asi aumentar mis conocimientos en el area de la programacion.
 
 
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJxcXpqb3FuNmx3cmhucmRmZXdhY2U1ZmcxZHVzejN6ZGl0ZW9uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width = 400px></picture>
 
 
 ### Estudios
@@ -19,3 +19,4 @@ para asi aumentar mis conocimientos en el area de la programacion.
 - Experiencia en el matenimiento de Ordenadores e instalacion de Software.
 - Experiencia basica en Photoshop.
 - Experiencia media en programos de ofimatica. 
+3
