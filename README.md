@@ -1,8 +1,8 @@
 # Raimond Caldera
 
-**Ing. Informática** · Cabimas, Venezuela · [codeonyx.online](https://codeonyx.online)
+**Ing. Informática** · Cabimas, Venezuela 
 
-Desarrollo software y lo dejo funcionando: la interfaz, los datos y el servidor. Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS, bajo la marca **Codeonyx**.
+Desarrollo software Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS, bajo la marca **Codeonyx**.
 
 Portafolio y contacto: **[codeonyx.online](https://codeonyx.online)**
 
@@ -40,9 +40,6 @@ El resto del trabajo, el CV y las formas de contacto están en [codeonyx.online]
 
 ## Contacto
 
-[Web](https://codeonyx.online) · [LinkedIn](https://www.linkedin.com/in/raimondcaldera/) · [Instagram](https://www.instagram.com/raimond_caldera/) · [TikTok](https://www.tiktok.com/@codeonyx) · [raimondcaldera1@gmail.com](mailto:raimondcaldera1@gmail.com)
+[Web](https://codeonyx.online) · [LinkedIn](https://www.linkedin.com/in/raimondcaldera/) · [Instagram](https://www.instagram.com/raimond_caldera/) · [TikTok](https://www.tiktok.com/@codeonyx.dev) · [raimondcaldera1@gmail.com](mailto:raimondcaldera1@gmail.com)
 
 ---
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/codeonyx-dev)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/codeonyx-dev)
