@@ -42,5 +42,5 @@ El resto del trabajo, el CV y las formas de contacto están en [codeonyx.online]
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/codeonyx-dev)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/codeonyx-dev)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Top langs](https://github-readme-stats.shion.dev/api/top-langs/?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
