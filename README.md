@@ -1,8 +1,11 @@
-# Codeonyx
+<p align="center">
+  <img src="assets/codeonyx-banner.png" alt="Codeonyx" width="520" />
+</p>
 
-Desarrollo software y lo dejo funcionando: la interfaz, los datos y el servidor. Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS.
+Desarrollo software y lo dejo funcionando: la interfaz, los datos y el servidor. Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS. Disponible para proyectos freelance.
 
 Portafolio y contacto: **[codeonyx.online](https://codeonyx.online)**
+
 
 ## Qué hago
 
