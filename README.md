@@ -1,24 +1,48 @@
-# 💫 About Me:
-Soy un apasionado programador de software con una sólida formación en la Computación y una profunda pasión por resolver problemas a través del código. Mi experiencia abarca desde el desarrollo de aplicaciones hasta la implementación de soluciones eficientes en lenguajes como Java y Base de datos. Y proporcionar un buen control de versiones por medio de Github para asi tener en orden el código.<br><br>Y actualmente estoy aprendiendo Spring Boot y próximamente me gustaría aprender otro leguaje como Python o C++. para así aumentar mis conocimientos en el área de la programación.<br><br><br><br>Estudios 🤓<br>ING en informática.<br>He hecho varios cursos como: Mantenimiento a equipos informáticos, programación en Java, Mysql, SqlLite y Git.<br>Experiencia en el mantenimiento de Ordenadores e instalación de Software.<br>Experiencia básica en Photoshop.<br>Experiencia media en programas de ofimática.
+# Raimond Caldera
 
+**Ing. Informática** · Cabimas, Venezuela · [codeonyx.online](https://codeonyx.online)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raimond_caldera/?theme=dark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimondcaldera/) 
+Desarrollo software y lo dejo funcionando: la interfaz, los datos y el servidor. Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS, bajo la marca **Codeonyx**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeonyx-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeonyx-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeonyx-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Portafolio y contacto: **[codeonyx.online](https://codeonyx.online)**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codeonyx-dev&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+## Qué hago
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- Aplicaciones web con TypeScript, React y Node
+- Java y bases de datos relacionales (MySQL, PostgreSQL, SQLite)
+- Android con Kotlin
+- Linux y VPS: dominio, despliegue y servicios propios
+- Git como parte del flujo de cada proyecto
+
+## Proyectos
+
+| Proyecto | Qué es |
+| --- | --- |
+| [OnyxSync](https://github.com/codeonyx-dev/OnyxSync) | Tareas, carpetas y calendario en una sola app (React + Vite), con sync opcional a Google |
+| [OnyxHorario](https://codeonyx-dev.github.io/OnyxHorario/) | Generador de horarios académicos: tablas, logos y exportar PNG/PDF |
+| [OnyxBCV-Tasa](https://codeonyx-dev.github.io/OnyxBCV-Tasa/) | Tasas oficiales del BCV en el navegador, con conversión a VES |
+| [SpreadVE](https://github.com/codeonyx-dev/spread-ve) | App Android (Kotlin + Compose): BCV, spread P2P, convertidor y widgets |
+| [Registro médico](https://github.com/codeonyx-dev/registro_medico) | Gestión de registros médicos para un ambulatorio (Java) |
+
+El resto del trabajo, el CV y las formas de contacto están en [codeonyx.online](https://codeonyx.online).
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Contacto
+
+[Web](https://codeonyx.online) · [LinkedIn](https://www.linkedin.com/in/raimondcaldera/) · [Instagram](https://www.instagram.com/raimond_caldera/) · [TikTok](https://www.tiktok.com/@codeonyx) · [raimondcaldera1@gmail.com](mailto:raimondcaldera1@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codeonyx-dev&icon=9&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/codeonyx-dev)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/codeonyx-dev)
