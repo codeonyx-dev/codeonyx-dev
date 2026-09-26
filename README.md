@@ -1,8 +1,6 @@
-# Raimond Caldera
+# Codeonyx
 
-**Ing. Informática** · Cabimas, Venezuela · [codeonyx.online](https://codeonyx.online)
-
-Desarrollo software y lo dejo funcionando: la interfaz, los datos y el servidor. Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS, bajo la marca **Codeonyx**.
+Desarrollo software y lo dejo funcionando: la interfaz, los datos y el servidor. Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS.
 
 Portafolio y contacto: **[codeonyx.online](https://codeonyx.online)**
 
