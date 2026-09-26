@@ -1,18 +1,30 @@
 # Raimond Caldera
 
-**Ing. Informática** · Cabimas, Venezuela
+**Ing. Informática** · Cabimas, Venezuela · [codeonyx.online](https://codeonyx.online)
 
-Construyo aplicaciones reales — de la interfaz al servidor — bajo la marca **[Codeonyx](https://codeonyx.online)**. Base en Java y SQL; hoy también web (TypeScript / React / Node), Android (Kotlin) y despliegue en Linux / VPS.
+Desarrollo software y lo dejo funcionando: la interfaz, los datos y el servidor. Empecé con Java, SQL y mantenimiento de equipos; ahora también armo aplicaciones web y las publico en mi propio VPS, bajo la marca **Codeonyx**.
+
+Portafolio y contacto: **[codeonyx.online](https://codeonyx.online)**
+
+## Qué hago
+
+- Aplicaciones web con TypeScript, React y Node
+- Java y bases de datos relacionales (MySQL, PostgreSQL, SQLite)
+- Android con Kotlin
+- Linux y VPS: dominio, despliegue y servicios propios
+- Git como parte del flujo de cada proyecto
 
 ## Proyectos
 
 | Proyecto | Qué es |
 | --- | --- |
-| [OnyxSync](https://github.com/codeonyx-dev/OnyxSync) | Tareas, carpetas y calendario en una sola app, con sync opcional a Google |
-| [OnyxHorario](https://codeonyx-dev.github.io/OnyxHorario/) | Horarios académicos con tablas, logos y exportación PNG/PDF |
-| [OnyxBCV-Tasa](https://codeonyx-dev.github.io/OnyxBCV-Tasa/) | Tasas del BCV en el navegador, con conversión a VES |
-| [SpreadVE](https://github.com/codeonyx-dev/spread-ve) | App Android: tasas BCV, spread P2P, convertidor y widgets |
+| [OnyxSync](https://github.com/codeonyx-dev/OnyxSync) | Tareas, carpetas y calendario en una sola app (React + Vite), con sync opcional a Google |
+| [OnyxHorario](https://codeonyx-dev.github.io/OnyxHorario/) | Generador de horarios académicos: tablas, logos y exportar PNG/PDF |
+| [OnyxBCV-Tasa](https://codeonyx-dev.github.io/OnyxBCV-Tasa/) | Tasas oficiales del BCV en el navegador, con conversión a VES |
+| [SpreadVE](https://github.com/codeonyx-dev/spread-ve) | App Android (Kotlin + Compose): BCV, spread P2P, convertidor y widgets |
 | [Registro médico](https://github.com/codeonyx-dev/registro_medico) | Historias clínicas de escritorio (Java + MySQL): roles, búsqueda, PDF y estadísticas |
+
+El resto del trabajo, el CV y las formas de contacto están en [codeonyx.online](https://codeonyx.online).
 
 ## Stack
 
@@ -28,4 +40,9 @@ Construyo aplicaciones reales — de la interfaz al servidor — bajo la marca *
 
 ## Contacto
 
-[codeonyx.online](https://codeonyx.online) · [LinkedIn](https://www.linkedin.com/in/raimondcaldera/) · [Instagram](https://www.instagram.com/raimond_caldera/) · [TikTok](https://www.tiktok.com/@codeonyx.dev) · [raimondcaldera1@gmail.com](mailto:raimondcaldera1@gmail.com)
+[Web](https://codeonyx.online) · [LinkedIn](https://www.linkedin.com/in/raimondcaldera/) · [Instagram](https://www.instagram.com/raimond_caldera/) · [TikTok](https://www.tiktok.com/@codeonyx.dev) · [raimondcaldera1@gmail.com](mailto:raimondcaldera1@gmail.com)
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/codeonyx-dev)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeonyx-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/codeonyx-dev)
